@@ -7,7 +7,9 @@ A portfolio website to display design work
 A grid system where you can filter through projects based on different sections including:
 
 Print- Red
+
 Web- Green	
+
 A/V- Blue
 
 Responsive-  When you hover over ‘Print' the image will be highlighted with a Red overlay. Once clicking print from the menu sidebar the images will reshuffle and only the images with the tag ‘print' will be displayed.
